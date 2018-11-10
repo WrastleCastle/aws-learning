@@ -1,0 +1,10 @@
+/home/ec2-user/environment/aws-learning/Web.Api/bin/Debug/netcoreapp2.0/Web.Api.deps.json
+/home/ec2-user/environment/aws-learning/Web.Api/bin/Debug/netcoreapp2.0/Web.Api.runtimeconfig.json
+/home/ec2-user/environment/aws-learning/Web.Api/bin/Debug/netcoreapp2.0/Web.Api.runtimeconfig.dev.json
+/home/ec2-user/environment/aws-learning/Web.Api/bin/Debug/netcoreapp2.0/Web.Api.dll
+/home/ec2-user/environment/aws-learning/Web.Api/bin/Debug/netcoreapp2.0/Web.Api.pdb
+/home/ec2-user/environment/aws-learning/Web.Api/obj/Debug/netcoreapp2.0/Web.Api.csproj.CoreCompileInputs.cache
+/home/ec2-user/environment/aws-learning/Web.Api/obj/Debug/netcoreapp2.0/Web.Api.AssemblyInfoInputs.cache
+/home/ec2-user/environment/aws-learning/Web.Api/obj/Debug/netcoreapp2.0/Web.Api.AssemblyInfo.cs
+/home/ec2-user/environment/aws-learning/Web.Api/obj/Debug/netcoreapp2.0/Web.Api.dll
+/home/ec2-user/environment/aws-learning/Web.Api/obj/Debug/netcoreapp2.0/Web.Api.pdb
